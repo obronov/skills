@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/obronov/skills.git/static/css/main.a2dc6d71.chunk.css",
+    "main.js": "/obronov/skills.git/static/js/main.4a72bede.chunk.js",
+    "main.js.map": "/obronov/skills.git/static/js/main.4a72bede.chunk.js.map",
+    "runtime-main.js": "/obronov/skills.git/static/js/runtime-main.21843f45.js",
+    "runtime-main.js.map": "/obronov/skills.git/static/js/runtime-main.21843f45.js.map",
+    "static/js/2.a992790c.chunk.js": "/obronov/skills.git/static/js/2.a992790c.chunk.js",
+    "static/js/2.a992790c.chunk.js.map": "/obronov/skills.git/static/js/2.a992790c.chunk.js.map",
+    "index.html": "/obronov/skills.git/index.html",
+    "static/css/main.a2dc6d71.chunk.css.map": "/obronov/skills.git/static/css/main.a2dc6d71.chunk.css.map",
+    "static/js/2.a992790c.chunk.js.LICENSE.txt": "/obronov/skills.git/static/js/2.a992790c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21843f45.js",
+    "static/js/2.a992790c.chunk.js",
+    "static/css/main.a2dc6d71.chunk.css",
+    "static/js/main.4a72bede.chunk.js"
+  ]
+}
